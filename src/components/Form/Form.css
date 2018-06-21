@@ -1,0 +1,24 @@
+
+@media screen and (min-width: 760px){
+    .form-container {
+        background: linear-gradient(180deg,#616161c4,#fafafa93);
+        background-repeat: repeat;
+        width: 90%;
+        padding-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+        height: 95%;
+    }
+}
+@media screen and (max-width: 760px){
+    .form-container {
+        background: linear-gradient(180deg,#616161c4,#fafafa93);
+        background-repeat: repeat;
+        width: 90%;
+        padding-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+    }
+}

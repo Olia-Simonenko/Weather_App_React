@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+body {
+  font-family: "Noto Serif", serif;
+  font-size: 16px;
+  background-image: url('./img/1.jpg');
+  background-repeat: repeat-y;
+  background-size:cover;
+}
+
+.main {
+ 
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: stretch; 
+}
+
+input,button{
+  font-size: 16px; 
+  border: 0;
+  border-radius: 2px;
+  margin-bottom: 20px;
+}
+
+.weather__key {
+  font-weight: 100;
+}
